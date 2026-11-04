@@ -20,3 +20,4 @@ fp-info-cache
 .copperpilot/fab/*/history.jsonl
 .copperpilot/fab/*/state.json
 .copperpilot/references/*/source/
+.copperpilot/validate/

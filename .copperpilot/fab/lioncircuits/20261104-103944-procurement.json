@@ -1,0 +1,291 @@
+{
+  "mode": [],
+  "iteration_tag": null,
+  "total_boards": null,
+  "lines": 28,
+  "available": 28,
+  "not_available": [],
+  "moq_bumps": [],
+  "rows": [
+    {
+      "no": "1",
+      "mpn": "N/A ESP32-S3FH4R2 2.4 GHz Wi-Fi + BLE 5.0 Dual-Core LX7 SoC with 4 MB Quad SPI Flash and 2 MB Quad PSRAM Espressif Systems QFN-56-1EP_7x7mm_P0.4mm_EP4x4mm MOQ 1",
+      "unit_qty": "\u2212 +",
+      "required_qty": "1",
+      "order_qty": "\u20b9542.94",
+      "unit_price": "\u20b9542.94",
+      "extended_cost": "Ready",
+      "available": true
+    },
+    {
+      "no": "2",
+      "mpn": "AP2112K-3.3TRG1 Fixed 3.3V 600mA Low-Dropout Linear Regulator Diodes Inc. SOT-23-5 MOQ 1",
+      "unit_qty": "\u2212 +",
+      "required_qty": "4",
+      "order_qty": "\u20b930.70",
+      "unit_price": "\u20b9122.81",
+      "extended_cost": "Adjusted",
+      "available": true
+    },
+    {
+      "no": "3",
+      "mpn": "USBLC6-2SC6 Very Low Capacitance ESD Protection Array for USB 2.0 STMicroelectronics SOT-23-6 MOQ 1",
+      "unit_qty": "\u2212 +",
+      "required_qty": "2",
+      "order_qty": "\u20b966.11",
+      "unit_price": "\u20b9132.23",
+      "extended_cost": "Adjusted",
+      "available": true
+    },
+    {
+      "no": "4",
+      "mpn": "TSX-3225 40.0000MF15Y-K0 40.000 MHz 10ppm 12pF SMD 3225 4-Pin Quartz Crystal Epson Crystal_SMD_3225-4Pin_3.2x2.5mm MOQ 1",
+      "unit_qty": "\u2212 +",
+      "required_qty": "2",
+      "order_qty": "\u20b950.74",
+      "unit_price": "\u20b9101.48",
+      "extended_cost": "Adjusted",
+      "available": true
+    },
+    {
+      "no": "5",
+      "mpn": "N/A ANT3216LL00R2400A 2.4 GHz 50 Ohm SMD Ceramic Chip Antenna (3.2x1.6mm) Pulse Johanson_2450AT18x100 MOQ 1",
+      "unit_qty": "\u2212 +",
+      "required_qty": "2",
+      "order_qty": "\u20b956.08",
+      "unit_price": "\u20b9112.16",
+      "extended_cost": "Adjusted",
+      "available": true
+    },
+    {
+      "no": "6",
+      "mpn": "USB4105-GF-A USB Type-C 16-Pin USB 2.0 Right-Angle SMD Receptacle Global Connector Technology USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal MOQ 1",
+      "unit_qty": "\u2212 +",
+      "required_qty": "2",
+      "order_qty": "\u20b999.44",
+      "unit_price": "\u20b9198.87",
+      "extended_cost": "Adjusted",
+      "available": true
+    },
+    {
+      "no": "7",
+      "mpn": "1N5819HW-7-F 40V 1A Schottky Barrier Rectifier Diode Diodes Inc. D_SOD-123 MOQ 1",
+      "unit_qty": "\u2212 +",
+      "required_qty": "3",
+      "order_qty": "\u20b935.25",
+      "unit_price": "\u20b9105.74",
+      "extended_cost": "Adjusted",
+      "available": true
+    },
+    {
+      "no": "8",
+      "mpn": "LTST-C190KRKT Red 0603 SMD Power Indicator LED Lite-On LED_0603_1608Metric MOQ 1",
+      "unit_qty": "\u2212 +",
+      "required_qty": "7",
+      "order_qty": "\u20b915.92",
+      "unit_price": "\u20b9111.46",
+      "extended_cost": "Adjusted",
+      "available": true
+    },
+    {
+      "no": "9",
+      "mpn": "LTST-C190KGKT Green 0603 SMD User Status LED (GPIO38) Lite-On LED_0603_1608Metric MOQ 1",
+      "unit_qty": "\u2212 +",
+      "required_qty": "6",
+      "order_qty": "\u20b917.05",
+      "unit_price": "\u20b9102.32",
+      "extended_cost": "Adjusted",
+      "available": true
+    },
+    {
+      "no": "10",
+      "mpn": "B3U-1000P SPST-NO Ultraminiature Top-Actuated SMD Tactile Switch (RESET, BOOT) Omron SW_SPST_B3U-1000P MOQ 1",
+      "unit_qty": "\u2212 +",
+      "required_qty": "2",
+      "order_qty": "\u20b9112.43",
+      "unit_price": "\u20b9224.86",
+      "extended_cost": "Ready",
+      "available": true
+    },
+    {
+      "no": "11",
+      "mpn": "LQG15HS2N0S02D 2.0nH +/-0.3nH 0402 High-Q RF Inductor (VDD3P3 PA Filter) Murata L_0402_1005Metric MOQ 1",
+      "unit_qty": "\u2212 +",
+      "required_qty": "8",
+      "order_qty": "\u20b912.74",
+      "unit_price": "\u20b9101.91",
+      "extended_cost": "Adjusted",
+      "available": true
+    },
+    {
+      "no": "12",
+      "mpn": "LQG15HS2N7S02D 2.7nH +/-0.3nH 0402 High-Q RF Matching Inductor (50 Ohm Pi-Match) Murata L_0402_1005Metric MOQ 1",
+      "unit_qty": "\u2212 +",
+      "required_qty": "8",
+      "order_qty": "\u20b912.74",
+      "unit_price": "\u20b9101.91",
+      "extended_cost": "Adjusted",
+      "available": true
+    },
+    {
+      "no": "13",
+      "mpn": "LQW15AN24NJ00D 24nH 5% 0402 Wirewound RF Inductor (XTAL_P Harmonic Suppression) Murata L_0402_1005Metric MOQ 1",
+      "unit_qty": "\u2212 +",
+      "required_qty": "8",
+      "order_qty": "\u20b914.02",
+      "unit_price": "\u20b9112.16",
+      "extended_cost": "Adjusted",
+      "available": true
+    },
+    {
+      "no": "14",
+      "mpn": "CC0402JRNPO9BN150 15pF 50V 5% C0G/NP0 0402 Ceramic Crystal Load Capacitor Yageo C_0402_1005Metric MOQ 1",
+      "unit_qty": "\u2212 +",
+      "required_qty": "9",
+      "order_qty": "\u20b911.36",
+      "unit_price": "\u20b9102.28",
+      "extended_cost": "Adjusted",
+      "available": true
+    },
+    {
+      "no": "15",
+      "mpn": "CC0402CRNPO9BN1R5 1.5pF 50V +/-0.25pF C0G/NP0 0402 RF Matching Shunt Capacitor Yageo C_0402_1005Metric MOQ 1",
+      "unit_qty": "\u2212 +",
+      "required_qty": "9",
+      "order_qty": "\u20b911.36",
+      "unit_price": "\u20b9102.28",
+      "extended_cost": "Adjusted",
+      "available": true
+    },
+    {
+      "no": "16",
+      "mpn": "CL05B103KB5NNNC 10nF 50V 10% X7R 0402 Ceramic Decoupling Capacitor (VDDA) Samsung C_0402_1005Metric MOQ 1",
+      "unit_qty": "\u2212 +",
+      "required_qty": "9",
+      "order_qty": "\u20b911.36",
+      "unit_price": "\u20b9102.28",
+      "extended_cost": "Adjusted",
+      "available": true
+    },
+    {
+      "no": "17",
+      "mpn": "CL05B104KO5NNNC 100nF 16V 10% X7R 0402 Ceramic Decoupling Capacitor Samsung C_0402_1005Metric MOQ 1",
+      "unit_qty": "\u2212 +",
+      "required_qty": "9",
+      "order_qty": "\u20b945.48",
+      "unit_price": "\u20b9409.34",
+      "extended_cost": "Ready",
+      "available": true
+    },
+    {
+      "no": "18",
+      "mpn": "CL05A105KP5NNNC 1uF 10V 10% X5R 0402 Ceramic Decoupling & EN RC Delay Capacitor Samsung C_0402_1005Metric MOQ 1",
+      "unit_qty": "\u2212 +",
+      "required_qty": "9",
+      "order_qty": "\u20b912.19",
+      "unit_price": "\u20b9109.67",
+      "extended_cost": "Adjusted",
+      "available": true
+    },
+    {
+      "no": "19",
+      "mpn": "CL10A106MP8NNNC ALT SMD Multilayer Ceramic Capacitor, 10 F, 10 V, 0603 [1608 Metric], 20%, X5R, CL Series Samsung C_0603_1608Metric MOQ 1 Original \u2014 CL10A106KP8NNNC",
+      "unit_qty": "\u2212 +",
+      "required_qty": "4",
+      "order_qty": "\u20b928.43",
+      "unit_price": "\u20b9113.72",
+      "extended_cost": "Adjusted",
+      "available": true
+    },
+    {
+      "no": "20",
+      "mpn": "CL10A226MP8NUNE 22uF 10V 20% X5R 0603 Ceramic LDO Output Bulk Reservoir Capacitor Samsung C_0603_1608Metric MOQ 1",
+      "unit_qty": "\u2212 +",
+      "required_qty": "3",
+      "order_qty": "\u20b935.25",
+      "unit_price": "\u20b9105.74",
+      "extended_cost": "Adjusted",
+      "available": true
+    },
+    {
+      "no": "21",
+      "mpn": "RC0402FR-075K1L 5.1k Ohm 1% 1/16W 0402 Thick Film Resistor (USB-C CC1/CC2 Rd) Yageo R_0402_1005Metric MOQ 1",
+      "unit_qty": "\u2212 +",
+      "required_qty": "9",
+      "order_qty": "\u20b911.36",
+      "unit_price": "\u20b9102.28",
+      "extended_cost": "Adjusted",
+      "available": true
+    },
+    {
+      "no": "22",
+      "mpn": "RC0402FR-0710KL 10k Ohm 1% 1/16W 0402 Thick Film Pull-Up Resistor (EN, GPIO0) Yageo R_0402_1005Metric MOQ 1",
+      "unit_qty": "\u2212 +",
+      "required_qty": "9",
+      "order_qty": "\u20b911.36",
+      "unit_price": "\u20b9102.28",
+      "extended_cost": "Adjusted",
+      "available": true
+    },
+    {
+      "no": "23",
+      "mpn": "RC0402FR-0722RL 22 Ohm 1% 1/16W 0402 Thick Film USB D+/D- Series Resistor Yageo R_0402_1005Metric MOQ 1",
+      "unit_qty": "\u2212 +",
+      "required_qty": "8",
+      "order_qty": "\u20b912.51",
+      "unit_price": "\u20b9100.06",
+      "extended_cost": "Adjusted",
+      "available": true
+    },
+    {
+      "no": "24",
+      "mpn": "RC0402FR-071KL 1k Ohm 1% 1/16W 0402 Thick Film LED Current-Limiting Resistor Yageo R_0402_1005Metric MOQ 1",
+      "unit_qty": "\u2212 +",
+      "required_qty": "9",
+      "order_qty": "\u20b911.36",
+      "unit_price": "\u20b9102.28",
+      "extended_cost": "Adjusted",
+      "available": true
+    },
+    {
+      "no": "25",
+      "mpn": "M20-9992046 1x20 2.54mm Pitch Vertical Through-Hole Pin Header Harwin PinHeader_1x20_P2.54mm_Vertical MOQ 1",
+      "unit_qty": "\u2212 +",
+      "required_qty": "2",
+      "order_qty": "\u20b987.94",
+      "unit_price": "\u20b9175.87",
+      "extended_cost": "Ready",
+      "available": true
+    },
+    {
+      "no": "26",
+      "mpn": "TSW-104-07-L-S 1x04 2.54mm Pitch Vertical Through-Hole I2C OLED Header (Optional) Samtec PinHeader_1x04_P2.54mm_Vertical MOQ 1",
+      "unit_qty": "\u2212 +",
+      "required_qty": "5",
+      "order_qty": "\u20b921.67",
+      "unit_price": "\u20b9108.33",
+      "extended_cost": "Adjusted",
+      "available": true
+    },
+    {
+      "no": "27",
+      "mpn": "U.FL-R-SMT-1(10) DC-6GHz 50 Ohm U.FL Coaxial SMT RF Receptacle (Optional) HIROSE ELECTRIC U.FL_Hirose_U.FL-R-SMT-1_Vertical MOQ 1",
+      "unit_qty": "\u2212 +",
+      "required_qty": "1",
+      "order_qty": "\u20b9212.84",
+      "unit_price": "\u20b9212.84",
+      "extended_cost": "Ready",
+      "available": true
+    },
+    {
+      "no": "28",
+      "mpn": "RC0402JR-070RL 0 Ohm Jumper 0402 RF Path Selector to J5 (Optional) Yageo R_0402_1005Metric MOQ 1",
+      "unit_qty": "\u2212 +",
+      "required_qty": "9",
+      "order_qty": "\u20b911.36",
+      "unit_price": "\u20b9102.28",
+      "extended_cost": "Adjusted",
+      "available": true
+    }
+  ]
+}

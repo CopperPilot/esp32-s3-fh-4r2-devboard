@@ -1,0 +1,41 @@
+{
+  "id": "marouane-esp32-c3-dev-board",
+  "url": "https://github.com/marouane-daoudi/esp32-c3-dev-board",
+  "license": "UNSPECIFIED (All Rights Reserved / Look-Only)",
+  "license_verified": true,
+  "identity_disposition": "rejected_for_direct_copy_look_only",
+  "detected_kicad_version": "10.0 (20260306 sch / 20260206 pcb)",
+  "target_kicad_version": "10.0 (20260306 sch / 20260206 pcb)",
+  "upgraded_in_place": false,
+  "match_state": "adapted_partial_reference",
+  "reusable_blocks": [
+    "Look-only topology verification for USB-C + USBLC6-2P6 + AP2112K-3.3 + crystal + dual GPIO headers"
+  ],
+  "gaps": [
+    "No repository license file present (look-only)",
+    "Targets ESP32-C3-WROOM-02 module rather than bare ESP32-S3FH4R2 QFN-56"
+  ],
+  "git_revision": "d93648df882a1a992ab9910b32b405ee795e73ed",
+  "files": {
+    "kicad/Block_diagram.kicad_sch": {
+      "size_bytes": 25041,
+      "sha256": "bdf8a76d4040186c112d238b375fe4f5f833aced74e583e22052acc95c9a7a97"
+    },
+    "kicad/ESP32C3Mini.kicad_sch": {
+      "size_bytes": 205274,
+      "sha256": "4d4dd1a88ad8a9cfee7bbbc9f5779bb31dd9994108c7278f69108abb75dd521c"
+    },
+    "kicad/ESP32_C3_Mini.kicad_pcb": {
+      "size_bytes": 497340,
+      "sha256": "a853186eb244238032796a08d6110792b81e782e7a4eaaf535b499773a81fe42"
+    },
+    "kicad/ESP32_C3_Mini.kicad_pro": {
+      "size_bytes": 16796,
+      "sha256": "f34d3cb44f7d0349de671bb5cedc3cc4bcd3f0c5fb1d09b4f890452b513923d0"
+    },
+    "kicad/ESP32_C3_Mini.kicad_sch": {
+      "size_bytes": 2018,
+      "sha256": "0c38ac25d0a0b787066d9effeb67d7b00d294f8ecb64f13d901aeaa3214834a7"
+    }
+  }
+}
