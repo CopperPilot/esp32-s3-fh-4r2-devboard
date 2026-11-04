@@ -1,0 +1,22 @@
+# OS & Editor files
+.DS_Store
+.history/
+__pycache__/
+*.py[cod]
+
+# KiCad temporary & lock files
+~*.lck
+*.lck
+*-backups/
+fp-info-cache
+
+# CopperPilot transient staging, caches & external cloned git trees
+.copperpilot/tmp/
+.copperpilot/skills/kicad_autorouter/cache/
+.copperpilot/validate/cache/
+.copperpilot/validate/runs/
+.copperpilot/ validate/
+.copperpilot/fab/*/jobs/
+.copperpilot/fab/*/history.jsonl
+.copperpilot/fab/*/state.json
+.copperpilot/references/*/source/
