@@ -1,0 +1,201 @@
+{
+  "url": "https://jlcdfm.com/viewer?pcbUploadFileId=640754525179084802",
+  "totals": {
+    "danger": 0,
+    "warning": 0,
+    "checks": 27,
+    "unanalyzed": 0
+  },
+  "problems": [],
+  "all_checks": [
+    {
+      "section": "Routing layer analysis",
+      "check": "Sharp trace corner",
+      "danger": 0,
+      "warning": 0,
+      "good": 0
+    },
+    {
+      "section": "Routing layer analysis",
+      "check": "BGA pad",
+      "danger": 0,
+      "warning": 0,
+      "good": 0
+    },
+    {
+      "section": "Routing layer analysis",
+      "check": "Via placed within a pad",
+      "danger": 0,
+      "warning": 0,
+      "good": 0
+    },
+    {
+      "section": "Routing layer analysis",
+      "check": "Trace to board edge",
+      "danger": 0,
+      "warning": 0,
+      "good": 0
+    },
+    {
+      "section": "Routing layer analysis",
+      "check": "Trace spacing",
+      "danger": 0,
+      "warning": 0,
+      "good": 19
+    },
+    {
+      "section": "Routing layer analysis",
+      "check": "Unconnected trace end",
+      "danger": 0,
+      "warning": 0,
+      "good": 0
+    },
+    {
+      "section": "Routing layer analysis",
+      "check": "Trace width",
+      "danger": 0,
+      "warning": 0,
+      "good": 76
+    },
+    {
+      "section": "Routing layer analysis",
+      "check": "Fiducial",
+      "danger": 0,
+      "warning": 0,
+      "good": 0
+    },
+    {
+      "section": "Routing layer analysis",
+      "check": "Pad to board edge",
+      "danger": 0,
+      "warning": 0,
+      "good": 0
+    },
+    {
+      "section": "Routing layer analysis",
+      "check": "Pad spacing",
+      "danger": 0,
+      "warning": 0,
+      "good": 56
+    },
+    {
+      "section": "Routing layer analysis",
+      "check": "Plated through-hole to trace clearance",
+      "danger": 0,
+      "warning": 0,
+      "good": 37
+    },
+    {
+      "section": "Routing layer analysis",
+      "check": "Annular ring",
+      "danger": 0,
+      "warning": 0,
+      "good": 100
+    },
+    {
+      "section": "Routing layer analysis",
+      "check": "tht to smd",
+      "danger": 0,
+      "warning": 0,
+      "good": 50
+    },
+    {
+      "section": "Routing layer analysis",
+      "check": "Via to pad",
+      "danger": 0,
+      "warning": 0,
+      "good": 0
+    },
+    {
+      "section": "Soldermask layer analysis",
+      "check": "Soldermask bridge",
+      "danger": 0,
+      "warning": 0,
+      "good": 50
+    },
+    {
+      "section": "Soldermask layer analysis",
+      "check": "Solder mask opening exposing trace",
+      "danger": 0,
+      "warning": 0,
+      "good": 88
+    },
+    {
+      "section": "Soldermask layer analysis",
+      "check": "Soldermask opening with multiple segments",
+      "danger": 0,
+      "warning": 0,
+      "good": 0
+    },
+    {
+      "section": "Soldermask layer analysis",
+      "check": "Negative soldermask expansion",
+      "danger": 0,
+      "warning": 0,
+      "good": 0
+    },
+    {
+      "section": "Silkscreen layer analysis",
+      "check": "Silkscreen to pad",
+      "danger": 0,
+      "warning": 0,
+      "good": 0
+    },
+    {
+      "section": "Silkscreen layer analysis",
+      "check": "Silkscreen to hole",
+      "danger": 0,
+      "warning": 0,
+      "good": 0
+    },
+    {
+      "section": "Silkscreen layer analysis",
+      "check": "Silkscreen line width",
+      "danger": 0,
+      "warning": 0,
+      "good": 50
+    },
+    {
+      "section": "Drill layer analysis",
+      "check": "Unconnected via",
+      "danger": 0,
+      "warning": 0,
+      "good": 0
+    },
+    {
+      "section": "Drill layer analysis",
+      "check": "Missing plated through-hole",
+      "danger": 0,
+      "warning": 0,
+      "good": 0
+    },
+    {
+      "section": "Drill layer analysis",
+      "check": "Plated through-hole spacing",
+      "danger": 0,
+      "warning": 0,
+      "good": 0
+    },
+    {
+      "section": "Drill layer analysis",
+      "check": "Short slot detection",
+      "danger": 0,
+      "warning": 0,
+      "good": 0
+    },
+    {
+      "section": "Drill layer analysis",
+      "check": "Slot width check",
+      "danger": 0,
+      "warning": 0,
+      "good": 4
+    },
+    {
+      "section": "Drill layer analysis",
+      "check": "Via to PTH spacing",
+      "danger": 0,
+      "warning": 0,
+      "good": 0
+    }
+  ]
+}
